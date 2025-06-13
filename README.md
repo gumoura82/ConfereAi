@@ -7,7 +7,7 @@ O **ConfereAí** é um sistema de gestão de estoque hospitalar, inspirado na te
 
 Imagine um hospital onde o consultório solicita materiais ao almoxarifado. O responsável escaneia os produtos via NFC com um celular e, automaticamente, o estoque é atualizado. Isso reduz falhas humanas e acelera processos críticos.
 
----
+
 
 ## 🧠 Funcionalidades
 
@@ -17,7 +17,7 @@ Imagine um hospital onde o consultório solicita materiais ao almoxarifado. O re
 - Busca global de itens e quantidades por unidade
 - Relatório de insumos em falta
 
----
+
 
 ## 💡 Tecnologias e Técnicas Utilizadas
 
@@ -27,7 +27,7 @@ Imagine um hospital onde o consultório solicita materiais ao almoxarifado. O re
 - Análise de algoritmos com notação Big-O
 - Pensado para futura integração com leitura NFC
 
----
+
 
 ## 🧪 Exemplo de Execução
 
@@ -39,7 +39,7 @@ print(estoque.redistribuir("Unidade_A", "Unidade_B", "luvas"))
 print(estoque.itens_em_falta())
 ```
 
----
+
 
 ## 👥 Equipe
 
